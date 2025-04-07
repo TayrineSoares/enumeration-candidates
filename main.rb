@@ -8,4 +8,6 @@ require './filters'
 
 pp @candidates
 
-# first commit 
+
+# Printing out the ordered list to check
+pp ordered_by_qualifications(@candidates)
